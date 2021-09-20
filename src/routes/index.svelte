@@ -1,5 +1,8 @@
+<script>
+</script>
+
 <svelte:head>
-	<title>SvelteKit Pokedex</title>
+	<title>SvelteKit Makeup Bieb</title>
 </svelte:head>
 
-<h1>Cocktailsssz</h1>
+<h1>Makeup Bieb</h1>

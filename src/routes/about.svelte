@@ -1,6 +1,8 @@
 <svelte:head>
-	<title>About the SvelteKit Pokedex</title>
+	<title>About the SvelteKit Makeup Bieb</title>
 </svelte:head>
 
-<h1>about</h1>
-<p>this is a really cool svelte demo that uses the PokedexAPI to display Pokemon</p>
+<h1>About</h1>
+<p>
+	This is a really cool svelte demo that uses a makeup API to showcase different types of makeup.
+</p>
